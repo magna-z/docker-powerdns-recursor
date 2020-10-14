@@ -1,6 +1,6 @@
 FROM alpine:3.11
 
-ENV POWERDNS_RECURSOR_VERSION=4.3.0
+ENV POWERDNS_RECURSOR_VERSION=4.3.3
 
 RUN set -ex \
     && apk --no-cache add \
