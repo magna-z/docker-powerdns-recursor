@@ -2,12 +2,13 @@ PowerDNS Recursor on Alpine Linux
 ---
 
 Official website: <https://powerdns.com>  
-Current version: **4.3.5**
+Current version: **4.4.2**
 
-![](https://img.shields.io/microbadger/layers/magnaz/powerdns-recursor/4.3.5) ![](https://img.shields.io/docker/image-size/magnaz/powerdns-recursor/4.3.5)
+![](https://img.shields.io/microbadger/layers/magnaz/powerdns-recursor/4.4.2) ![](https://img.shields.io/docker/image-size/magnaz/powerdns-recursor/4.4.2)
 
 ### Available tags:
- - 4.3.5, 4.3, latest
+ - 4.4.2, 4.4, latest
+ - 4.3.5, 4.3
  - 4.3.4
  - 4.3.3
  - 4.3.0
